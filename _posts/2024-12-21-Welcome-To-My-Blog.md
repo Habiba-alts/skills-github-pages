@@ -3,7 +3,7 @@ title: "Welcome To My Blog"
 date: 2024-12-21
 ---
 I'M DOING IT!. I AM LEARNING A TECH SKILL. FINALLY  
-
+My name is Habiba Musa Mohammed, a botanist and hopefully a future cybersecurity professional.
 I’ve always had a keen interest in technology — from the gadgets I use daily to the endless possibilities of innovation. However, my background has been far from technical, and despite my enthusiasm for the field, it has been a struggle to just get moving.  
 
 Starting a new learning journey is always exciting, but for someone without a tech background, it can feel like stepping into the unknown. For me, that journey began when I enrolled in the cybersecurity diploma program at AltSchool. One of the biggest hurdles I faced was the fear of being "too late" or "too inexperienced" to start. I was worried I wouldn’t understand basic concepts, or that I’d fall behind in the coursework. But I realized that the only way to overcome this fear was to start.  
